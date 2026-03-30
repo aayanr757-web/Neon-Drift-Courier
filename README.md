@@ -24,3 +24,17 @@ gcc src/main.c src/game.c -o game.exe -lraylib -lopengl32 -lgdi32 -lwinmm
 ## Run
 
 ./game.exe
+
+## Features
+
+- Neon-style animated graphics with glow effects
+- Particle system for visual feedback
+- Dynamic enemy spawning (difficulty increases over time)
+- Shield power-up mechanic (cyan ORB)
+- Screen shake and slow-motion effects on collisions
+- Smooth player movement using delta time
+
+## Author
+
+Aayan Raza  
+Neon Drift Courier (Elite)
